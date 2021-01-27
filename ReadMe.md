@@ -11,4 +11,4 @@ Daftar segitiga yang ada di dalamnya yaitu :
 
 ## Penggunaan
 
-Berilah tag komentar ( // ) pada script yang tidak ingin ditampilkan.
+Berilah tag komentar ( // ) pada script di file .js yang tidak ingin ditampilkan.
